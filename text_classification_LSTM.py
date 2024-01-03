@@ -1,10 +1,4 @@
-"""
-@channel Morita DataLand
-@author Morita Tarvirdians
-@email tarvirdians.morita@gmail.com
-@desc text classification using LSTM
 
-"""
 import pandas as pd
 import seaborn as sns
 import matplotlib.pyplot as plt
